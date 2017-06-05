@@ -1,44 +1,4 @@
 {
   "name": "react-native-amplitude-wrapper",
-  "version": "0.0.2",
-  "description": "React Native wrapper for Amplitude.",
-  "main": "index",
-  "files": [
-    "android",
-    "ios",
-    "react-native-amplitude-sdk.podspec",
-    "index.ios.js",
-    "index.android.js"
-  ],
-  "keywords": [
-    "analytics",
-    "amplitude",
-    "ios",
-    "android",
-    "react-native"
-  ],
-  "author": "Gleb Selyukov <prospik@ya.ru> (https://github.com/prospik/react-native-amplitude-wrapper)",
-  "contributors": [
-    {
-      "name": "Gleb Selyukov",
-      "email": "prospik@ya.ru"
-    }
-  ],
-  "license": "MIT",
-  "repository": {
-    "url": "git+https://github.com/prospik/react-native-amplitude-wrapper.git",
-    "type": "git"
-  },
-  "homepage": "https://github.com/prospik/react-native-amplitude-wrapper",
-  "engines": {},
-  "dependencies": {},
-  "devDependencies": {
-    "babel-eslint": "7.0.0",
-    "eslint": "3.8.1"
-  },
-  "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start",
-    "test": "jest",
-    "lint": "eslint ."
-  }
+  "version": "0.0.2"
 }
